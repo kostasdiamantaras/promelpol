@@ -16,9 +16,9 @@ Keras
 
 ### Description
 
-- Sub-project that generates the images in `Resources/imageset/`
+- Sub-project that generates the images in `./imageset/`
 - Inside imageset there is a folder for every shop. 
-- Each shop is split into a train and a test folder.
+- Each shop is split into an input and a target folder.
 - All images are represented by a csv. Every cell represents the pixel values
 
 6 images are created for each item in each shop.
